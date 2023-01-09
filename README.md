@@ -1,5 +1,5 @@
 # TEST
 ## instruktioner
 - punkt
-- [] hej
+- [ ] hej
 Bara ett test
